@@ -1,0 +1,15 @@
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/obj/Debug/net6.0/DZ_1_4.csproj.AssemblyReference.cache
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/obj/Debug/net6.0/DZ_1_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/obj/Debug/net6.0/DZ_1_4.AssemblyInfoInputs.cache
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/obj/Debug/net6.0/DZ_1_4.AssemblyInfo.cs
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/obj/Debug/net6.0/DZ_1_4.csproj.CoreCompileInputs.cache
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/bin/Debug/net6.0/DZ_1_4
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/bin/Debug/net6.0/DZ_1_4.deps.json
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/bin/Debug/net6.0/DZ_1_4.runtimeconfig.json
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/bin/Debug/net6.0/DZ_1_4.dll
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/bin/Debug/net6.0/DZ_1_4.pdb
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/obj/Debug/net6.0/DZ_1_4.dll
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/obj/Debug/net6.0/refint/DZ_1_4.dll
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/obj/Debug/net6.0/DZ_1_4.pdb
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/obj/Debug/net6.0/DZ_1_4.genruntimeconfig.cache
+/Users/ola/Desktop/Оля/C#/ C#_DZ/DZ_1_4/obj/Debug/net6.0/ref/DZ_1_4.dll
