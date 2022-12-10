@@ -1,0 +1,15 @@
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/bin/Debug/net6.0/HM_3_3
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/bin/Debug/net6.0/HM_3_3.deps.json
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/bin/Debug/net6.0/HM_3_3.runtimeconfig.json
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/bin/Debug/net6.0/HM_3_3.dll
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/bin/Debug/net6.0/HM_3_3.pdb
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/obj/Debug/net6.0/HM_3_3.csproj.AssemblyReference.cache
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/obj/Debug/net6.0/HM_3_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/obj/Debug/net6.0/HM_3_3.AssemblyInfoInputs.cache
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/obj/Debug/net6.0/HM_3_3.AssemblyInfo.cs
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/obj/Debug/net6.0/HM_3_3.csproj.CoreCompileInputs.cache
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/obj/Debug/net6.0/HM_3_3.dll
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/obj/Debug/net6.0/refint/HM_3_3.dll
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/obj/Debug/net6.0/HM_3_3.pdb
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/obj/Debug/net6.0/HM_3_3.genruntimeconfig.cache
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HM_3_3/obj/Debug/net6.0/ref/HM_3_3.dll
