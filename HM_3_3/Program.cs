@@ -15,3 +15,4 @@ while (N>=i)
      Console.Write($" {cube}, ");
      i++ ;
 }
+
