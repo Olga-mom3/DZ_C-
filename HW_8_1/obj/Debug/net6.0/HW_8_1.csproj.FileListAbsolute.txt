@@ -1,0 +1,15 @@
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/bin/Debug/net6.0/HW_8_1
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/bin/Debug/net6.0/HW_8_1.deps.json
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/bin/Debug/net6.0/HW_8_1.runtimeconfig.json
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/bin/Debug/net6.0/HW_8_1.dll
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/bin/Debug/net6.0/HW_8_1.pdb
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/obj/Debug/net6.0/HW_8_1.csproj.AssemblyReference.cache
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/obj/Debug/net6.0/HW_8_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/obj/Debug/net6.0/HW_8_1.AssemblyInfoInputs.cache
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/obj/Debug/net6.0/HW_8_1.AssemblyInfo.cs
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/obj/Debug/net6.0/HW_8_1.csproj.CoreCompileInputs.cache
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/obj/Debug/net6.0/HW_8_1.dll
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/obj/Debug/net6.0/refint/HW_8_1.dll
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/obj/Debug/net6.0/HW_8_1.pdb
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/obj/Debug/net6.0/HW_8_1.genruntimeconfig.cache
+/Users/ola/Desktop/Оля/C#/ C#_DZ/HW_8_1/obj/Debug/net6.0/ref/HW_8_1.dll
